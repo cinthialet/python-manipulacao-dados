@@ -41,7 +41,7 @@ Estas demandas foram estrategicamente escolhidas para simular situações reais 
 
 ## Estrutura do Projeto
 - **Notebook:** `manipulacao_dados_python.ipynb`
-- 
+  
 - **output:** Arquivos gerados durante o notebook. Exemplos incluem:
   - `dados_pre_processados.csv`
   - `dados_pre_processados.xlsx`
